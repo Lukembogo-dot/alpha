@@ -11,10 +11,9 @@ A latency-neutral, production-grade hand gesture control system for media playba
 
 ### Gesture Controls
 - ✊ **Fist** → Play/Pause toggle
-- 🤚➡️ **Swipe Right** → Next track
-- 🤚⬅️ **Swipe Left** → Previous track
-- 🤏 **Pinch Open** → Volume Up (spread thumb & index finger)
-- 🤏 **Pinch Close** → Volume Down (bring fingers together)
+- ✌️➡️ **Right Peace sign Wave** → Next track
+- ✌️⬅️ **Left Peace sign Wave** → Previous track
+- 🤏 **Pinch then move to adjust volume** → Pinch then move hand UP/DOWN to adjust volume.
 
 ### System Features
 - System-wide media control (works with ANY app)

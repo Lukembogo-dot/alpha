@@ -6,10 +6,9 @@ numpy==1.24.3
 # Media control (cross-platform)
 pyautogui==0.9.54
 
-# Windows-specific audio control (optional but recommended for Windows)
-# Uncomment if on Windows:
-# pycaw==20231129
-# comtypes==1.2.0
+# Windows-specific audio control (required for Windows volume control)
+pycaw==20231129
+comtypes==1.2.0
 
 # Linux media control
 # Install separately on Linux: sudo apt-get install playerctl
